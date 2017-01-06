@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vxapp.iml" filepath="$PROJECT_DIR$/.idea/modules/vxapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vxapp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vxapp_main.iml" group="vxapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vxapp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vxapp_test.iml" group="vxapp" />
+    </modules>
+  </component>
+</project>
