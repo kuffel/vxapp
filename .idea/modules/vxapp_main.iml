@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="vxapp:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="eu.kuffel" external.system.module.type="sourceSet" external.system.module.version="0.0.1" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="vxapp:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="eu.kuffel.vxapp" external.system.module.type="sourceSet" external.system.module.version="0.0.1" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/../../build/classes/main" />
     <exclude-output />
@@ -9,5 +9,83 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-core:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-web:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-unit:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-mail-client:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: commons-cli:commons-cli:1.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.5" level="project" />
+    <orderEntry type="library" name="Gradle: commons-validator:commons-validator:1.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-mongo-client:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongodb-driver-async:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongodb-driver:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-redis-client:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.client:transport:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.rabbitmq:amqp-client:4.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler-proxy:4.1.5.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http2:4.1.5.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns:4.1.5.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.7.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.vertx:vertx-auth-common:3.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: commons-beanutils:commons-beanutils:1.8.3" level="project" />
+    <orderEntry type="library" name="Gradle: commons-digester:commons-digester:1.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:bson:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongodb-driver-core:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:elasticsearch:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:transport-netty3-client:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:transport-netty4-client:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:reindex-client:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:lang-mustache-client:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:percolator-client:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.5.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-dns:4.1.5.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-core:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-analyzers-common:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-backward-codecs:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-grouping:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-highlighter:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-join:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-memory:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-misc:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queries:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queryparser:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-sandbox:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-spatial:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-spatial-extras:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-spatial3d:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-suggest:6.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:securesm:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.jopt-simple:jopt-simple:5.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.carrotsearch:hppc:0.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.9.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.15" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.tdunning:t-digest:3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hdrhistogram:HdrHistogram:2.1.6" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:4.2.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty:3.10.6.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.client:rest:5.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.spullara.mustache.java:compiler:0.9.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.5" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.6.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.6.Final" level="project" />
   </component>
 </module>
