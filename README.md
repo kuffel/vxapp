@@ -1,5 +1,7 @@
 # vxapp
 
+[![Build Status](https://travis-ci.org/kuffel/vxapp.svg?branch=master)](https://travis-ci.org/kuffel/vxapp)
+
 Vert.x based applicaton template.
 
 ## Getting started
